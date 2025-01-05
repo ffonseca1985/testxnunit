@@ -1,5 +1,6 @@
 using FluentAssertions;
 using Teste.Bussiness;
+using Teste.Entity;
 
 public class SomeFunctionsTests
 {

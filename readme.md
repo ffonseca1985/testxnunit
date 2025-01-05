@@ -15,14 +15,14 @@ dotnet new classlib -n Teste.Bussiness --framework net6.0
 dotnet new classlib -n Teste.Repository --framework net6.0
 dotnet new classlib -n Teste.Entity --framework net6.0
 
-# Move to folder src
+# Moving to folder src
 mkdir src
 move Test.* src
 
 # Creating a test project
 dotnet new xunit -n Teste.test --framework net6.0
 
-# Move to folder tests
+# Moving to folder tests
 mkdir tests
 move Test.* tests
 
@@ -46,10 +46,14 @@ dotnet add .\src\Teste.Repository\Teste.Repository.csproj reference .\src\Teste.
 dotnet add .\tests\Teste.test\Teste.test.csproj reference .\src\Teste.Bussiness\Teste.Bussiness.csproj
 dotnet add .\tests\Teste.test\Teste.test.csproj reference .\src\Teste.WebApi\Teste.WebApi.csproj
 dotnet add .\tests\Teste.test\Teste.test.csproj reference .\src\Teste.Repository\Teste.Repository.csproj
+dotnet add .\tests\Teste.test\Teste.test.csproj reference .\src\Teste.Entity\Teste.Entity.csproj 
 
 # Add Packages to test
 dotnet add .\tests\Teste.test\Teste.test.csproj package NSubstitute
 dotnet add .\tests\Teste.test\Teste.test.csproj package FluentAssertions
+
+# Creating a class
+dotnet new class -n UserServiceTests -o .\tests\Teste.test\
 
 # Build the project
 dotnet build
