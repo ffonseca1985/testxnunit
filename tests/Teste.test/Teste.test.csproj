@@ -26,6 +26,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\src\Teste.Bussiness\Teste.Bussiness.csproj" />
     <ProjectReference Include="..\..\src\Teste.WebApi\Teste.WebApi.csproj" />
+    <ProjectReference Include="..\..\src\Teste.Repository\Teste.Repository.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,7 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Teste.Repository\Teste.Repository.csproj" />
     <ProjectReference Include="..\Teste.Entity\Teste.Entity.csproj" />
   </ItemGroup>
 
