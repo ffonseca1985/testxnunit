@@ -55,6 +55,18 @@ dotnet add .\tests\Teste.test\Teste.test.csproj package FluentAssertions
 # Creating a class
 dotnet new class -n UserServiceTests -o .\tests\Teste.test\
 
+# Generation of a report
+dotnet test --collect:"XPlat Code Coverage"
+
+# tools installed
+dotnet tool list --global
+
+# install tools to report test
+dotnet tool install --global dotnet-reportgenerator-globaltool
+
+# verify dashboards (go to coveragexml path and execute the command)
+reportgenerator "-reports:coverage.cobertura.xml" "-targetdir:coveragereport" -reporttypes:Html
+
 # Build the project
 dotnet build
 
