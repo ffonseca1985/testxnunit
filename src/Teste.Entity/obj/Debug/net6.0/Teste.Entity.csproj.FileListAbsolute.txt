@@ -1,0 +1,11 @@
+C:\privates\tests\rascunhos\src\Teste.Entity\bin\Debug\net6.0\Teste.Entity.deps.json
+C:\privates\tests\rascunhos\src\Teste.Entity\bin\Debug\net6.0\Teste.Entity.dll
+C:\privates\tests\rascunhos\src\Teste.Entity\bin\Debug\net6.0\Teste.Entity.pdb
+C:\privates\tests\rascunhos\src\Teste.Entity\obj\Debug\net6.0\Teste.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\privates\tests\rascunhos\src\Teste.Entity\obj\Debug\net6.0\Teste.Entity.AssemblyInfoInputs.cache
+C:\privates\tests\rascunhos\src\Teste.Entity\obj\Debug\net6.0\Teste.Entity.AssemblyInfo.cs
+C:\privates\tests\rascunhos\src\Teste.Entity\obj\Debug\net6.0\Teste.Entity.csproj.CoreCompileInputs.cache
+C:\privates\tests\rascunhos\src\Teste.Entity\obj\Debug\net6.0\Teste.Entity.dll
+C:\privates\tests\rascunhos\src\Teste.Entity\obj\Debug\net6.0\refint\Teste.Entity.dll
+C:\privates\tests\rascunhos\src\Teste.Entity\obj\Debug\net6.0\Teste.Entity.pdb
+C:\privates\tests\rascunhos\src\Teste.Entity\obj\Debug\net6.0\ref\Teste.Entity.dll

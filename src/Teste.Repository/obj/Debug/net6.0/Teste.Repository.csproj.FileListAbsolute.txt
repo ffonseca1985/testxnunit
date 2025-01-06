@@ -1,0 +1,15 @@
+C:\privates\tests\rascunhos\src\Teste.Repository\bin\Debug\net6.0\Teste.Repository.deps.json
+C:\privates\tests\rascunhos\src\Teste.Repository\bin\Debug\net6.0\Teste.Repository.dll
+C:\privates\tests\rascunhos\src\Teste.Repository\bin\Debug\net6.0\Teste.Repository.pdb
+C:\privates\tests\rascunhos\src\Teste.Repository\obj\Debug\net6.0\Teste.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\privates\tests\rascunhos\src\Teste.Repository\obj\Debug\net6.0\Teste.Repository.AssemblyInfoInputs.cache
+C:\privates\tests\rascunhos\src\Teste.Repository\obj\Debug\net6.0\Teste.Repository.AssemblyInfo.cs
+C:\privates\tests\rascunhos\src\Teste.Repository\obj\Debug\net6.0\Teste.Repository.csproj.CoreCompileInputs.cache
+C:\privates\tests\rascunhos\src\Teste.Repository\obj\Debug\net6.0\Teste.Repository.dll
+C:\privates\tests\rascunhos\src\Teste.Repository\obj\Debug\net6.0\refint\Teste.Repository.dll
+C:\privates\tests\rascunhos\src\Teste.Repository\obj\Debug\net6.0\Teste.Repository.pdb
+C:\privates\tests\rascunhos\src\Teste.Repository\obj\Debug\net6.0\ref\Teste.Repository.dll
+C:\privates\tests\rascunhos\src\Teste.Repository\obj\Debug\net6.0\Teste.Repository.csproj.AssemblyReference.cache
+C:\privates\tests\rascunhos\src\Teste.Repository\bin\Debug\net6.0\Teste.Entity.dll
+C:\privates\tests\rascunhos\src\Teste.Repository\bin\Debug\net6.0\Teste.Entity.pdb
+C:\privates\tests\rascunhos\src\Teste.Repository\obj\Debug\net6.0\Teste.Re.CAE662C6.Up2Date
